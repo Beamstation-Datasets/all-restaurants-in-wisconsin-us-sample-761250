@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete state-level restaurant data for Wisconsin. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Wisconsin, US",
-  "export_job_id": "9cd4227c-9882-4347-9438-25d1a21fbd00",
+  "export_job_id": "87e8597b-9f94-4098-8b42-a821b8c9ae81",
   "github_org": "Beamstation-Datasets",
   "id_short": 761250,
   "location_name": "Wisconsin",
   "location_type": "state",
   "repo_name": "all-restaurants-in-wisconsin-us-sample-761250",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/761250/beamstation_761250_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_pct": 9.35,
+  "sample_pct": 9.49,
   "sample_records": 1000,
-  "sample_sha256": "f5e90514a4e7418ca850158597248d6f1a732602466b6a6e16e1b59cc918da58",
-  "sample_size_bytes": 2925812,
-  "total_records": 10695,
-  "updated_at": "2026-04-09T15:19:21.186118+00:00"
+  "sample_sha256": "bda07a8ffd2e9bad2cbc98c8309086723e6465105c1727a3a750f4b0cecf17fd",
+  "sample_size_bytes": 2732163,
+  "total_records": 10536,
+  "updated_at": "2026-04-16T18:00:10.202864+00:00"
 }
