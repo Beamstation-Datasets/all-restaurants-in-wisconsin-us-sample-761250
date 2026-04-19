@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9cd4227c-9882-4347-9438-25d1a21fbd00",
+  "export_job_id": "87e8597b-9f94-4098-8b42-a821b8c9ae81",
   "id_short": 761250,
-  "published_at": "2026-04-15T07:13:31Z",
+  "published_at": "2026-04-19T19:11:59Z",
   "repo_name": "all-restaurants-in-wisconsin-us-sample-761250",
   "sample_asset_name": "beamstation_761250_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/761250/beamstation_761250_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "f5e90514a4e7418ca850158597248d6f1a732602466b6a6e16e1b59cc918da58",
-  "sample_size_bytes": 2925812,
-  "total_records": 10695
+  "sample_sha256": "bda07a8ffd2e9bad2cbc98c8309086723e6465105c1727a3a750f4b0cecf17fd",
+  "sample_size_bytes": 2732163,
+  "total_records": 10536
 }
